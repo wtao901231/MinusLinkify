@@ -1,9 +1,9 @@
 # MinusLinkify
 Android TextView widget with more flexible span-link capabilities, include OnLinkClickListener and customed IntentSpan.
 
-![Screenshot](https://raw.github.com/wtao901231/MinusLinkify/master/1.gif)
-![Screenshot](https://raw.github.com/wtao901231/MinusLinkify/master/2.gif)
-![Screenshot](https://raw.github.com/wtao901231/MinusLinkify/master/3.gif)
+![Screenshot](https://raw.github.com/wtao901231/MinusLinkify/master/01.gif)
+![Screenshot](https://raw.github.com/wtao901231/MinusLinkify/master/02.gif)
+![Screenshot](https://raw.github.com/wtao901231/MinusLinkify/master/03.gif)
 
 ## Xml
 ``` xml
