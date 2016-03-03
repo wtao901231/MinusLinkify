@@ -37,6 +37,10 @@ public class LinkTextView extends TextView implements IOnSpanClickListener, IOnI
     private int mAutoLinkMaskCompat;
     private LinkGestureDetector mLinkGestureDetector;
 
+    public LinkTextView(Context context) {
+    	this(context, null);
+    }
+    
     public LinkTextView(Context context, AttributeSet attrs) {
         super(context, attrs);
 
