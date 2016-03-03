@@ -52,7 +52,7 @@ v.setOnInterruptSpanClickFilter(new IOnInterruptSpanClickFilter() {
 ```
 
 ## Adavanced Usage
-- **IntentSpan** &lt;a intent={-n com.tencent.wework/.launch.WwMainActivity}&gt;*click and launch home*&lt;/a&gt;
+- **IntentSpan** &lt;a intent={-a android.intent.action.MAIN -c android.intent.category.HOME}&gt;*click and launch home*&lt;/a&gt;
 > format: &lt;a intent={**ADB-SHELL-AM-COMMAND**}&gt;**LINK_TEXT**&lt;/a&gt;
 > - **ADB-SHELL-AM-COMMAND** run *adb shell*, and using system *am start* to use, test and config link finally
 > - **LINK_TEXT** visible to user, and response when on touch or click
