@@ -1,8 +1,12 @@
 # MinusLinkify
 Android TextView widget with more flexible span-link capabilities, include OnLinkClickListener and customed IntentSpan.
 
+## Demo Screenshot
+### test onLinkClick and toast<br>
 ![Screenshot](https://raw.github.com/wtao901231/MinusLinkify/master/01.gif)
+### test onInterruptSpanClick false, and open web default<br>
 ![Screenshot](https://raw.github.com/wtao901231/MinusLinkify/master/02.gif)
+### test customed home intent<br>
 ![Screenshot](https://raw.github.com/wtao901231/MinusLinkify/master/03.gif)
 
 ## Xml
