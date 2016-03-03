@@ -1,5 +1,9 @@
 # MinusLinkify
-More flexible way to set span-text links and callback when onClick.
+Android TextView widget with more flexible span-link capabilities, include OnLinkClickListener and customed IntentSpan.
+
+![Screenshot](https://raw.github.com/wtao901231/MinusLinkify/master/1.gif)
+![Screenshot](https://raw.github.com/wtao901231/MinusLinkify/master/2.gif)
+![Screenshot](https://raw.github.com/wtao901231/MinusLinkify/master/3.gif)
 
 ## Xml
 ``` xml
